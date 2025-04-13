@@ -1,0 +1,1 @@
+## This repository contains a collection of 30 JavaScript solutions
